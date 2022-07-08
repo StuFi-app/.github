@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## 🙋‍ Hoi! Bekijk onze website!
+![image](https://user-images.githubusercontent.com/30956602/178066449-cc109a45-f076-4e5f-b41a-502191a552f0.png)
+[StuFi.app](https://stufi.app)
 <!--
 
 **Here are some ideas to get you started:**
