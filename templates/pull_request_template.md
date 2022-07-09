@@ -4,7 +4,7 @@ Vertel wat deze functie/fix inhoud? (evt. context van het probleem en images)
 
 ## Type of change
 
-Wat voor soort pull-reqeust is dit? (Check wat relevant is)
+Wat voor soort pull-request is dit? (Check wat relevant is)
 
 - [x] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
